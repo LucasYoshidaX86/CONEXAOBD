@@ -1,6 +1,6 @@
 CONEXAOBD
 
-Descrição do projeto: Este projeto cria um sistema simples utilizando a linguagem Java para criar uma interface  CLI conectada ao Bando de Dados MySQL, atendendo os requisitos:
+Descrição do projeto: Este projeto cria um sistema simples utilizando a linguagem Java para criar uma interface  CLI conectada ao Banco de Dados MySQL, atendendo os requisitos:
 
 ETAPA 1
 
@@ -28,10 +28,35 @@ ETAPA 2
 
 - POR FIM, CRIE UMA INTERFACE NO ESTILO INTERFACE COMMAND-LINE PARA O SEU PROJETO, A INTERFACE DEVE SEGUIR ESTE PADRÃO:
 
- - Print Screen do projeto funcionando:
+ - Print Screen do projeto funcionando (Atualizar dados de idade):
 
   
-![Acesso ao print screen ](https://github.com/LucasYoshidaX86/GERENCIAMENTO_FRUTAS_CLI/blob/main/Captura%20de%20tela%202024-11-03%20023036.png)
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/AtualizarDados.png)
+
+
+- Print Screen do projeto funcionando (Banco de Dados após a alteração):
+
+  
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/AtualizarDadosMySQL.png)
+
+
+- Print Screen do projeto funcionando (Deletando dados de Danilo):
+
+  
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/DeletarDados.png)
+
+
+- Print Screen do projeto funcionando (Banco de dados após alteração):
+
+  
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/DeletarDadosMySQL.png)
+
+
+- Print Screen do projeto funcionando (Exibindo todas as informações do Bando de Dados):
+
+  
+![Acesso ao print screen ](https://github.com/LucasYoshidaX86/CONEXAOBD/blob/main/LerDados.png)
+
 
 🚀 Começando Para iniciar o desenvolvimento do projeto, clone o repositório do GitHub e abra o projeto no Eclipse. Certifique-se de ter o JDK instalado em sua máquina.
 
